@@ -5,7 +5,7 @@ Through our designed mobile application, we are connecting our users with person
 
 We also have a side bar where users can choose any category like sports, daily, science... Or any newspaper like Sabah, Cumhuriyet...
 
-There is a search bar for users to search any detailed new. In example user can write "Messi" and see all the hottest news about footballer Lionel Messi.
+There is a search bar for users to search any detailed new. In example user can write "Messi" and see all the breaking news about footballer Lionel Messi.
 
 Users can like and save the news they enjoy.
 
