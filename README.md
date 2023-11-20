@@ -9,10 +9,10 @@ There is a search bar for users to search any detailed new. In example user can 
 
 Users can like and save the news they enjoy.
 
-![haber](https://github.com/fatihguner41/newsapp/blob/main/haber.PNG)
+![haber](https://github.com/fatihguner41/NewsApp/blob/main/haber.PNG)
 
-![messi](https://github.com/fatihguner41/newsapp/blob/main/messi.PNG)
+![messi](https://github.com/fatihguner41/NewsApp/blob/main/messi.PNG)
 
-![saved](https://github.com/fatihguner41/newsapp/blob/main/saved.PNG)
+![saved](https://github.com/fatihguner41/NewsApp/blob/main/saved.PNG)
 
-![sidebar](https://github.com/fatihguner41/newsapp/blob/main/sidebar.PNG)
+![sidebar](https://github.com/fatihguner41/NewsApp/blob/main/sidebar.PNG)
